@@ -1,5 +1,6 @@
 {
   "name": "client-panel",
+  "author": "Bhaveetkumar",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
